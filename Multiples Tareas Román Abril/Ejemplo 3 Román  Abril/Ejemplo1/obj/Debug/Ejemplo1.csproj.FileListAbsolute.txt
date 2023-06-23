@@ -1,0 +1,52 @@
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.exe
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.pdb
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.exe
+E:\Desktop\Ejemplo 1 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.pdb
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.exe
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.pdb
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.exe
+E:\Desktop\Ejemplo 2 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.pdb
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.exe
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.pdb
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.exe
+E:\Desktop\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.pdb
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.exe
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\bin\Debug\Ejemplo1.pdb
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.exe
+E:\Desktop\Ejercicio3-main\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.pdb
+E:\Desktop\Task que no son exitosas Román Abril\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+E:\Desktop\Task que no son exitosas Román Abril\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\Task que no son exitosas Román Abril\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+E:\Desktop\Task que no son exitosas Román Abril\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+E:\Desktop\Task que no son exitosas Román Abril\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+E:\Desktop\Task que no son exitosas Román Abril\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+E:\Desktop\Task que no son exitosas Román Abril\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.exe
+E:\Desktop\Task que no son exitosas Román Abril\Ejemplo 3 Román  Abril\Ejemplo1\obj\Debug\Ejemplo1.pdb
